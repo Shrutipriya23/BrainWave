@@ -7,11 +7,17 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
+   
 
 ## 🚨 About Project
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+
+
+YOU CAN ALSO VIEW THIS PROJECT HOSTED ON NETLIFY: https://bespoke-creponne-653d18.netlify.app
+
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
